@@ -1,0 +1,12 @@
+{
+  "name": "Choruswild",
+  "short_name": "Choruswild",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#111a2d",
+  "description": "Choruswild Update 1: new highland and mythic worlds, class breeding, Form Lab, safer synthesis and offline progress.",
+  "icons": [
+    {"src":"app-icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
